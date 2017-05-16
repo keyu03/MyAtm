@@ -18,6 +18,7 @@ public class AddActivity extends AppCompatActivity {
     private MyDBHelper helper;
 
     @Override
+    //測試修改後第二次儲存
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add);
