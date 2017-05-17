@@ -17,7 +17,7 @@ import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
-
+//TEST
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
     boolean logon = false;
     public static final int FUNC_LOGIN = 1;
