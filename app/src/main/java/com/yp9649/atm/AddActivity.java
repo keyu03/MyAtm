@@ -19,6 +19,7 @@ public class AddActivity extends AppCompatActivity {
 
     @Override
     //測試修改後第二次儲存
+    //測試修改後第三次儲存
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add);
